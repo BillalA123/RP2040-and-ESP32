@@ -1,6 +1,6 @@
 # RP2040 and ESP32 PCB
 
-Dual microcontroller development PCB integrating an RP2040 and ESP32-C3 with battery management, motor control, power regulation, and prototyping hardware.
+Dual microcontroller PCB integrating an RP2040 and ESP32-C3 with battery management, motor control, and power regulation.
 
 ## PCB
 
@@ -10,15 +10,13 @@ Dual microcontroller development PCB integrating an RP2040 and ESP32-C3 with bat
 
 - RP2040 microcontroller
 - ESP32-C3-WROOM-02-N4 module
-- Independent USB-C connections for the RP2040 and ESP32
+- USB-C connections for the RP2040 and ESP32
 - 2S battery management system
 - 2S cell balancing
 - Onboard battery charger
-- 3.3V buck converter with approximately 3.5V to 28V input range
+- 3.3V buck converter 
 - Integrated motor driver
-- Battery input connector
 - RP2040 debug header
-- ESP32 JTAG header
 - I2C expansion header
 - Multiple power output headers
 - Integrated switches and status LEDs
