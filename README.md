@@ -27,7 +27,7 @@ Dual microcontroller PCB integrating an RP2040 and ESP32-C3 with battery managem
 
 The PCB combines two microcontroller platforms on a single board. The RP2040 provides general-purpose processing and extensive GPIO, while the ESP32-C3 provides wireless connectivity and additional processing capability.
 
-The board also integrates the supporting power electronics needed for battery-powered projects, including battery charging, battery protection, cell balancing, 3.3V regulation, and motor control. A prototyping section and several breakout headers allow additional sensors, actuators, and external circuits to be connected directly to the board.
+The board also integrates the supporting power electronics needed for battery-powered projects, including battery charging, battery protection, and cell balancing. A prototyping section with several breakout headers allowing I2C, SPI, and UART.
 
 ## Schematic
 
